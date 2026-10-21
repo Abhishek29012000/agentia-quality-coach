@@ -1,0 +1,17 @@
+.container {
+  width: 1200px;
+  padding: 24px;
+  margin: 16px;
+  background: #ffeeee;
+  color: #333333;
+}
+
+.title {
+  font-size: 28px !important;
+  width: 800px;
+}
+
+.sidebar {
+  width: 300px;
+  height: 600px;
+}
